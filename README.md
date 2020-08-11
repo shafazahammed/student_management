@@ -10,5 +10,7 @@ Config the database in config/database.php
 
 My database is there in db.sql
 
+You can import it into your database
+
 
 
