@@ -1,1 +1,1 @@
-# student management port in codeigniter
+# student management portal in codeigniter
